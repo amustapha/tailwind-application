@@ -1,5 +1,5 @@
 <template>
-  <div class="antialiased rounded shadow flex flex-wrap m-16 bg-white">
+  <div class="card my-12">
     <div class="bg-local bg-cover w-1/2" style="background-image: url('/imgs/pycon.jpg')" />
 
     <div class="w-1/2 py-12 px-8">
