@@ -12,7 +12,7 @@
       </p>
 
       <h4 class="font-semibold text-2xl mt-6 mb-0">Abdulhakeem A. M.</h4>
-      <small class="text-teal-700 mt-0 text-lg">Future fullstack engineer, Tailwind CSS</small>
+      <small class="text-teal-700 mt-0 text-lg">Snr. Software Engineer, Hooli TNL</small>
     </div>
 
   </div>
