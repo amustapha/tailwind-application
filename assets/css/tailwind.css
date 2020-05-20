@@ -1,0 +1,29 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+.btn {
+  @apply px-8 py-2 inline-block rounded bg-gray-300 cursor-pointer transition duration-500;
+}
+
+.btn:hover {
+  @apply bg-gray-400;
+}
+
+.btn-blue {
+  @apply bg-blue-700 text-white;
+}
+
+.btn-blue:hover {
+  @apply bg-blue-800;
+}
+
+.btn-teal {
+  @apply bg-teal-700 text-white;
+}
+.btn-teal:hover {
+  @apply bg-teal-800 text-white;
+}
+

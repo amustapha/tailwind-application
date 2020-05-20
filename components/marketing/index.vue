@@ -13,6 +13,11 @@
         TailwindCSS was just what I've been searching for. A few weeks later, I'm applying for a Full-Stack Developer role
         with the awesome team behind it.
       </p>
+      <div class="flex justify-between mt-8 font-bold">
+        <a href="https://blog.amustapha.com" class="btn" target="_blank">Blog</a>
+        <a href="https://docs.google.com/document/d/1xElMvl-O5xN6oA5U989hwJlEwEseLTA-QxpNFkxs73Q/edit" class="btn btn-blue" target="_blank">Resume</a>
+        <a class="btn btn-teal" target="_blank">Portfolio</a>
+      </div>
     </div>
   </div>
 </template>
