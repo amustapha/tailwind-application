@@ -28,6 +28,6 @@
 }
 
 .card {
-  @apply overflow-hidden rounded-lg shadow-lg flex flex-wrap bg-white
+  @apply overflow-hidden rounded-lg shadow-lg flex bg-white
 }
 
