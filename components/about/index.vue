@@ -1,11 +1,11 @@
 <template>
   <div class="container mx-auto ">
 
-    <div class="card my-4 py-12 px-8">
-      <div class="w-1/5">
-        <img src="https://amustapha.com/my-pic-no-bg.webp" class="w-full rounded-full bg-gray-400"/>
+    <div class="card my-4 py-12 px-8 flex-wrap">
+      <div class="w-full md:w-48">
+        <img src="https://amustapha.com/my-pic-no-bg.webp" class="w-48 rounded-full bg-gray-400 mx-auto mb-4"/>
       </div>
-      <div class="w-4/5 ml-10">
+      <div class="w-64 flex-grow md:ml-10">
         <p class="text-xl text-gray-700 leading-relaxed font-medium">
           I must admit, I was short on ideas on exactly what to put on this site, I didn't want it to be a full clone of
           my portfolio since there's a link to that already. While I'm trying to ensure it clearly communicates my
