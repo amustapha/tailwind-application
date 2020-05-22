@@ -5,7 +5,7 @@
        pl-8 md:pl-24 lg:pl-32 xl:pl-48 pr-8 md:pr-12 xl:pr-32 bg-local"
       style="background-image: url('/imgs/angled-background.svg'); ">
       <h1 class="text-4xl mb-4 font-black">
-        Hi there, I'm Abdulhakeem
+        Hi Adam, I'm Abdulhakeem
       </h1>
       <p class="text-gray-700 font-normal text-xl leading-relaxed">
         A couple of weeks ago, I saw <a href="https://www.linkedin.com/in/pydanny" class="text-teal-700"> Daniel Roy
