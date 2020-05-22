@@ -26,12 +26,6 @@
                 </p>
 
                 <p class="mt-3">I learnt to write code by myself, but taking every opportunity to learn from the
-                  masters.
-                  I realize that above every possessor of knowledge, there's one person more learned. There is no
-                  perfection, but I strive to minimize imperfection.
-                </p>
-
-                <p class="mt-3">I learnt to write code by myself, but taking every opportunity to learn from the
                   masters.I love to learn, but hate being a parasite. I always try to be symbiotic, learning and
                   contributing my quota along the way.
                   I know that above every possessor of knowledge, there's one person more learned. Though there is no

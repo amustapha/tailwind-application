@@ -1,6 +1,9 @@
 # tailwind
 
-> Tailwind CSS Job Application
+> Tailwind UI Job Application
+
+As part of the requirements for [Tailwind UI Fullstack Developer Role](https://apply.workable.com/tailwind-ui/j/E129989EC6/),
+I put together this page to say a little story about myself.
 
 ## Build Setup
 
@@ -18,5 +21,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
