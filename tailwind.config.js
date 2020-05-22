@@ -5,6 +5,13 @@
 ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 */
 module.exports = {
+  purge: {
+    mode: 'all',
+    content:  [
+      './**/*.html',
+      './**/*.vue',
+    ]
+  },
   theme: {},
   variants: {},
   plugins: []

@@ -37,8 +37,6 @@
                   I know that above every possessor of knowledge, there's one person more learned. Though there is no
                   perfection, but I strive to minimize imperfection. Everyday, I just want to be better than I was.
                 </p>
-
-
               </keyset>
             </div>
 
