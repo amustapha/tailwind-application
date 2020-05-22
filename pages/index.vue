@@ -1,19 +1,18 @@
 <template>
   <div class="">
     <marketing />
-    <about-me />
-
+    <profile />
   </div>
 </template>
 
 <script>
 
 import Marketing from '../components/marketing/index'
-import AboutMe from '../components/about/index'
+import Profile from '../components/profile/index'
 
 export default {
   components: {
-    AboutMe,
+    Profile,
     Marketing
   }
 }
