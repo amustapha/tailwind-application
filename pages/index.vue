@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="pb-4">
     <marketing />
     <profile />
   </div>

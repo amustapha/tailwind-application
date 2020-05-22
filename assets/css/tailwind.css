@@ -37,3 +37,7 @@
   @apply overflow-hidden rounded-lg shadow-lg flex bg-white
 }
 
+.card-thanks {
+  @apply bg-purple-800 text-white
+}
+
