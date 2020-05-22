@@ -16,7 +16,7 @@
       <div class="flex mt-8 font-bold">
         <a href="https://docs.google.com/document/d/1xElMvl-O5xN6oA5U989hwJlEwEseLTA-QxpNFkxs73Q/edit"
            class="btn btn-blue mr-4" target="_blank">Resume</a>
-        <a class="btn" target="_blank">Portfolio</a>
+        <a class="btn" target="_blank" href="https://amustapha.com">Portfolio</a>
       </div>
     </div>
 
