@@ -1,5 +1,5 @@
 <template>
-  <div class="container px-4 sm:mx-auto">
+  <div class="container px-3 sm:mx-auto">
     <div class="flex items-stretch flex-wrap">
 
       <div class="w-full lg:w-8/12">
