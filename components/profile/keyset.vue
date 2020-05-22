@@ -1,7 +1,7 @@
 <template>
   <div v-bind="$attrs">
     <label class="text-gray-600 text-sm">{{ label }}</label>
-    <div class="text-md font-semibold text-gray-700"><slot /></div>
+    <div class="text-md  text-gray-700"><slot /></div>
 
   </div>
 </template>
