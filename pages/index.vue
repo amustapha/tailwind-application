@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto py-1">
+  <div class="">
     <marketing />
     <about-me />
 
