@@ -10,7 +10,7 @@
       <p class="text-gray-700 font-normal text-lg lg:text-xl leading-relaxed">
         A couple of weeks ago, I saw <a href="https://www.linkedin.com/in/pydanny" class="text-teal-700"> Daniel Roy
         Greenfeld </a> make a post about Tailwind CSS, and that was the beginning of a beautiful journey. I fell in love
-        with Tailwind CSS as it gives me the flexibility to customize my designs and also makes me deliver results quicker.
+        with Tailwind CSS almost immediately and I never had a reason to look back.
         A few weeks later, I'm applying for a Full-Stack Developer role with the awesome team behind it.
       </p>
       <div class="flex mt-8 font-bold">
