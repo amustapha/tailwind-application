@@ -7,8 +7,8 @@
           <img src="/imgs/piper-iphone.png" class="max-w-xs lg:max-w-none mx-auto lg:w-full my-6">
         </div>
         <div class="w-full py-4 lg:w-9/12 lg:py-16 lg:my-8 lg:pr-10 text-lg">
-          <h2 class="text-center w-full text-2xl font-bold uppercase">An interesting problem I once solved</h2>
-          <p class="pt-2 lg:pt-6">Sometime in 2016, my then mentor Niyi gave me a challenge, to make html tables
+          <h2 class="text-center w-full text-2xl font-extrabold ">An interesting problem I once solved with CSS</h2>
+          <p class="pt-2 lg:pt-6">Sometime in 2016, my mentor Niyi gave me a challenge, to make html tables
             convenient to
             read on mobile. This solution would then be used to solve a similar challenge in a startup I work 2
             years later</p>
