@@ -2,7 +2,7 @@
   <div class="border-b-2 w-full py-4 px-4">
     <div class="flex items-center">
       <div class="w-0 md:w-16  flex-shrink">
-        <img src="/imgs/my-pic-no-bg.png" class="w-full rounded-full bg-gray-400 mx-auto"/>
+        <img src="/imgs/my-pic.jpg" class="w-full rounded-full bg-gray-400 mx-auto"/>
       </div>
       <div class="flex-grow pr-4 md:px-4">
         <h2 class="text-md md:text-xl font-bold">Abdulhakeem <span class="hidden md:inline">Adetunji</span> Mustapha</h2>
